@@ -94,12 +94,12 @@ host
 nodes
 ^^^^^^
 
-List to specify all the nodes that make up the cluster, using the `<node>` tag for each one.
+List to specify all the nodes that make up the cluster, using the ``<node>`` tag for each one.
 
 +--------------------+---------------------------------+
 | **Default value**  | localhost                       |
 +--------------------+---------------------------------+
-| **Allowed values** | Any node name                   |
+| **Allowed values** | Any node name.                  |
 +--------------------+---------------------------------+
 
 Example of configuration
